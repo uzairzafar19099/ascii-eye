@@ -67,4 +67,6 @@ If the animation is slow on your computer, reduce `FPS` or `COLS, ROWS`.
 
 ## License
 
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 Created by Uzair Zafar
